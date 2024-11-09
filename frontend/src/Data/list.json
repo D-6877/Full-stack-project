@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "name": "Story Book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia, rerum.",
+        "price": 0,
+        "catagory": "Free",
+        "imamge": "https://img.freepik.com/free-photo/books-assortment-with-dark-background_23-2148898297.jpg?ga=GA1.1.486148017.1730958635&semt=ais_hybrid"
+    },
+    {
+        "id": 2,
+        "name": "Comedy Book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia, rerum.",
+        "price": 20,
+        "catagory": "Entertainment",
+        "imamge": "https://img.freepik.com/free-photo/books-assortment-with-dark-background_23-2148898297.jpg?ga=GA1.1.486148017.1730958635&semt=ais_hybrid"
+    },
+    {
+        "id": 3,
+        "name": "Sports Book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia, rerum.",
+        "price": 50,
+        "catagory": "Sports",
+        "imamge": "https://img.freepik.com/free-photo/books-assortment-with-dark-background_23-2148898297.jpg?ga=GA1.1.486148017.1730958635&semt=ais_hybrid"
+    },
+    {
+        "id": 4,
+        "name": "Music Book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia, rerum.",
+        "price": 20,
+        "catagory": "Song",
+        "imamge": "https://img.freepik.com/free-photo/books-assortment-with-dark-background_23-2148898297.jpg?ga=GA1.1.486148017.1730958635&semt=ais_hybrid"
+    },
+    {
+        "id": 5,
+        "name": "Story Book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia, rerum.",
+        "price": 47,
+        "catagory": "Free",
+        "imamge": "https://img.freepik.com/free-photo/books-assortment-with-dark-background_23-2148898297.jpg?ga=GA1.1.486148017.1730958635&semt=ais_hybrid"
+    },
+    {
+        "id": 6,
+        "name": "Story Book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia, rerum.",
+        "price": 84,
+        "catagory": "Free",
+        "imamge": "https://img.freepik.com/free-photo/books-assortment-with-dark-background_23-2148898297.jpg?ga=GA1.1.486148017.1730958635&semt=ais_hybrid"
+    },
+    {
+        "id": 6,
+        "name": "Story Book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia, rerum.",
+        "price": 38,
+        "catagory": "Free",
+        "imamge": "https://img.freepik.com/free-photo/books-assortment-with-dark-background_23-2148898297.jpg?ga=GA1.1.486148017.1730958635&semt=ais_hybrid"
+    },
+    {
+        "id":7,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia, rerum.",
+        "price": 297,
+        "catagory":"Free",
+        "imamge":"https://img.freepik.com/free-photo/books-assortment-with-dark-background_23-2148898297.jpg?ga=GA1.1.486148017.1730958635&semt=ais_hybrid"
+    },
+    {
+        "id":8,
+        "name":"Horor Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia, rerum.",
+        "price": 46,
+        "catagory":"Free",
+        "imamge":"https://img.freepik.com/free-photo/books-assortment-with-dark-background_23-2148898297.jpg?ga=GA1.1.486148017.1730958635&semt=ais_hybrid"
+    },
+    {
+        "id":9,
+        "name":"Food Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia, rerum.",
+        "price": 200,
+        "catagory":"Food",
+        "imamge":"https://img.freepik.com/free-photo/books-assortment-with-dark-background_23-2148898297.jpg?ga=GA1.1.486148017.1730958635&semt=ais_hybrid"
+    },
+    {
+        "id":10,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia, rerum.",
+        "price": 100,
+        "catagory":"Free",
+        "imamge":"https://img.freepik.com/free-photo/books-assortment-with-dark-background_23-2148898297.jpg?ga=GA1.1.486148017.1730958635&semt=ais_hybrid"
+    },
+    {
+        "id":11,
+        "name":"Comedy Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia, rerum.",
+        "price": 298,
+        "catagory":"Free",
+        "imamge":"https://img.freepik.com/free-photo/books-assortment-with-dark-background_23-2148898297.jpg?ga=GA1.1.486148017.1730958635&semt=ais_hybrid"
+    }
+]
